@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56486082998",
+    "firebase_url": "https://mycars-6d5ed.firebaseio.com",
+    "project_id": "mycars-6d5ed",
+    "storage_bucket": "mycars-6d5ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56486082998:android:9b118498d69717c5ae2917",
+        "android_client_info": {
+          "package_name": "io.github.eufranio.mycars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56486082998-gpdfk84gkcpardbh6nppak2as7drltv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.eufranio.mycars",
+            "certificate_hash": "70d5669d2759809311e5433a097d3d8571237a24"
+          }
+        },
+        {
+          "client_id": "56486082998-6agjkisrcp533q1q98khm3fne6u1faol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiPppA3FTV_PkNDFU7ZhENbSB8UWc1nIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56486082998-6agjkisrcp533q1q98khm3fne6u1faol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
